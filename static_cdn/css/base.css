@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&family=Roboto:wght@900&display=swap');
+/* @font-face { 
+font-family: 'Noto Sans TC'; 
+	src: url('../fonts/NotoSansTC-Medium.otf') format("opentype"), 
+	local('Noto Sans TC'); 
+} 
+  
+@font-face { 
+	font-family: 'Roboto-Medium'; 
+	src: url('../fonts/Roboto-Medium.ttf') format("truetype"), 
+	local('Roboto-Medium'); 
+} */
+  
+body {
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Noto Sans TC', sans-serif;
+	/* font-family: 'Roboto-Medium','Noto Sans TC', sans-serif; */
+}
+  
+h1 {
+	color:red;
+}
+  
